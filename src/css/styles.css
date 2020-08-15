@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  font-family: 'Roboto';
 }
 
 header {
@@ -8,9 +9,8 @@ header {
 }
 
 .logo {
-  color: #ffffff;
+  color: pink;
   font-size: 40px;
-  font-family: 'Roboto';
   text-align: center;
 }
 
@@ -20,7 +20,7 @@ header input {
 }
 
 .news-item {
-  background-color:red;
+  background-color: red;
 }
 
 
